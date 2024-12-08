@@ -1,8 +1,8 @@
 ## Hi there 👋  
 你好呀~ 这里是 **fluffyBloomX**. 最喜欢聊天和写代码了 qwq  
-<img align = right src = "img/1.png">
-- 🌱 喜欢的语言: Python, C++,java,swift ~~虽然我都不会~~  
-- 🔭 正在学习的: C++,java,JavaScript ~~好难~~ 
+<img align = right src = "img/1.png" width = 250>
+- 🌱 喜欢的语言: Python,C++,java,swift ~~虽然我都不会~~  
+- 🔭 正在学习的: C++,java,JavaScript
 - 👯 希望和很多善良的人交朋友  
 - 💬 或许我们可以聊些有趣~~但没啥用~~的小程序 
 - 📫 嘿嘿, 你可以直接在这个个人介绍仓库里面开一个 Discussion 来聊天 (~~毕竟我社恐~~)
