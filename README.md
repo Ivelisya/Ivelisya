@@ -1,9 +1,9 @@
 ## Hi there 👋  
 你好呀~ 这里是 **fluffyBloomX**. 最喜欢聊天和写代码了 qwq  
-<img align="right" src="img/1.png" width="200">
+<img align="right" src="img/1.png" width="290">
 ### 🌟 关于我  
-- 🌱 **喜欢的语言**: Python, C++, Java, Swift ~~虽然我都不会~~  
-- 🔭 **正在学习的**: C++, Java, JavaScript ~~好难~~  
+- 🌱 **喜欢的语言**: Python, C++, Java, Swift **~~虽然我都不会~~**
+- 🔭 **正在学习的**: C++, Java, JavaScript **~~好难~~**  
 - 👯 **希望和很多善良的人交朋友**  
 - 💬 **或许我们可以聊些有趣~~但没啥用~~的小程序**  
 - 🤔 **要是有人能教我写代码那就更好了**  
