@@ -8,4 +8,6 @@
 - 🤔 **要是有人能教我写代码那就更好了**  
 - 💕 **如果更多人喜欢我写的小项目，一定会很开心**  
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=FluffyBloomX&theme=tokyonight)](https://github.com/FluffyBloomX)
+---
+![.NET](https://img.shields.io/badge/-.NET-%235c5c5c) ![C#](https://img.shields.io/badge/-C%23-%238c37db) ![ACGN](https://img.shields.io/badge/-ACGN-%239ac8f6)
+
