@@ -1,5 +1,5 @@
 ## Hi there 👋  
-<img align = right src = "img/1.png" width = 280>
+<img align = right src = "img/1.png" width = 300>
 
 你好呀~ 这里是 **fluffyBloomX**. 最喜欢聊天和写代码了 qwq  
 - 🌱 喜欢的语言: Python,C++,Java,Swift ~~虽然我都不会~~  
