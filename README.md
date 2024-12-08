@@ -9,6 +9,7 @@
 - 💕 **如果更多人喜欢我写的小项目，一定会很开心**  
 
 ---
+### 📊 数据统计 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluffyBloomX&layout=compact&theme=radical)         ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FluffyBloomX&theme=radical)
 
 
