@@ -1,5 +1,6 @@
 ## Hi there 👋  
 <img align = right src = "img/1.png" width = 250>
+
 你好呀~ 这里是 **fluffyBloomX**. 最喜欢聊天和写代码了 qwq  
 - 🌱 喜欢的语言: Python,C++,Java,Swift ~~虽然我都不会~~  
 - 🔭 正在学习的: C++,Java,JavaScript
