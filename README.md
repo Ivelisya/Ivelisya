@@ -9,5 +9,6 @@
 - 💕 **如果更多人喜欢我写的小项目，一定会很开心**  
 
 ---
-![.NET](https://img.shields.io/badge/-.NET-%235c5c5c) ![C#](https://img.shields.io/badge/-C%23-%238c37db) ![ACGN](https://img.shields.io/badge/-ACGN-%239ac8f6)
+![.NET](https://img.shields.io/badge/-.NET-%235c5c5c)![Python](https://img.shields.io/badge/-Python-%233B8E7D)  ![C++](https://img.shields.io/badge/-C%2B%2B-%2300599C)  ![Lua](https://img.shields.io/badge/-Lua-%232C2D72)  
+
 
