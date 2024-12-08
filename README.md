@@ -2,8 +2,13 @@
 
 <picture>
   <source media="(max-width: 768px)" srcset="">
-  <img align="right" src="img/1.png" width="300" style="display: block;">
+  <img align = right src="img/1.png" width="300" style="max-width: 100%; height: auto;">
 </picture>
+
+ 
+
+
+
 
 你好呀~ 这里是 **fluffyBloomX**. 最喜欢聊天和写代码了 qwq  
 - 🌱 喜欢的语言: Python,C++,Java,Swift ~~虽然我都不会~~  
