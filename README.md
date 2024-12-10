@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- <img align = right src="img/1.jpg" width = 300> -->
 
-你好呀~ 这里是 **Ivelisya**. 最喜欢聊天和写代码了 qwq  
+你好呀~ 这里是 **ivelisya**. 最喜欢聊天和写代码了 qwq  
 - 🌱 喜欢的语言: Python,C++,Java,Swift ~~虽然我都不会~~  
 - 🔭 正在学习的: C++,Java,JavaScript
 - 👯 希望和很多善良的人交朋友  
