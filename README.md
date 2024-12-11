@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!-- <img align = right src="img/1.jpg" width = 300> -->
-<img align="right" src="https://api.githubtrends.io/user/svg/Ivelisya/langs?time_range=one_year&loc_metric=changed&theme=classic" />
+<img align="right" src="https://api.githubtrends.io/user/svg/Ivelisya/langs?time_range=one_year&loc_metric=changed&theme=radical" />
 
 你好呀~ 这里是 **ivelisya**. 最喜欢聊天和写代码了 qwq  
 - 🌱 喜欢的语言: Python,C++,Java,Swift ~~虽然我都不会~~  
