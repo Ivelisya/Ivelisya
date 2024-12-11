@@ -12,8 +12,7 @@
 - 💕 如果更多人喜欢我写的小项目，一定会很开心  
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivelisya&layout=compact&theme=radical)         <img src="https://api.githubtrends.io/user/svg/ivelisya/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic"/>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivelisya&layout=compact&theme=radical)         ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ivelisya&theme=radical)
 
 
 
