@@ -12,7 +12,6 @@
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivelisya&layout=compact&theme=radical)         ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ivelisya&theme=radical)
-![Ivelisya's Contribution Time](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-time.svg?username=Ivelisya&theme=radical)
 
 
 
